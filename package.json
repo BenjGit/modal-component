@@ -1,6 +1,6 @@
 {
   "name": "ben-modal-component",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "A simple component to create a modal",
   "main": "index.js",
   "scripts": {
